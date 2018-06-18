@@ -1,0 +1,6 @@
+[0614/180411.336:ERROR:process_reader_win.cc(123)] NtOpenThread: {Δεν επιτρέπεται η πρόσβαση} Μια διεργασία ζήτησε πρόσβαση σε ένα αντικείμενο, αλλά δεν έχει εξασφαλίσει τέτοια δικαιώματα πρόσβασης. (0xc0000022)
+[0614/180411.351:ERROR:exception_snapshot_win.cc(88)] thread ID 10904 not found in process
+[0614/180411.489:ERROR:process_reader_win.cc(123)] NtOpenThread: {Δεν επιτρέπεται η πρόσβαση} Μια διεργασία ζήτησε πρόσβαση σε ένα αντικείμενο, αλλά δεν έχει εξασφαλίσει τέτοια δικαιώματα πρόσβασης. (0xc0000022)
+[0614/180411.489:ERROR:exception_snapshot_win.cc(88)] thread ID 12376 not found in process
+[0615/171549.844:ERROR:process_reader_win.cc(123)] NtOpenThread: {Δεν επιτρέπεται η πρόσβαση} Μια διεργασία ζήτησε πρόσβαση σε ένα αντικείμενο, αλλά δεν έχει εξασφαλίσει τέτοια δικαιώματα πρόσβασης. (0xc0000022)
+[0615/171549.860:ERROR:exception_snapshot_win.cc(88)] thread ID 11976 not found in process

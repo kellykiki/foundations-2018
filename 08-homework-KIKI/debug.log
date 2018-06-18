@@ -1,0 +1,2 @@
+[0613/223842.254:ERROR:process_reader_win.cc(123)] NtOpenThread: {Δεν επιτρέπεται η πρόσβαση} Μια διεργασία ζήτησε πρόσβαση σε ένα αντικείμενο, αλλά δεν έχει εξασφαλίσει τέτοια δικαιώματα πρόσβασης. (0xc0000022)
+[0613/223842.270:ERROR:exception_snapshot_win.cc(88)] thread ID 11756 not found in process
