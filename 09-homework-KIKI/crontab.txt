@@ -1,0 +1,70 @@
+ # HOMEWORK-9-Using APIs/Data Structures
+
+kellykiki@Kelly MINGW64 ~/Desktop
+$ scp -i foundations_key Homework_9_Dark_Sky_KIKI.py root@206.189.232.164:~/
+Homework_9_Dark_Sky_KIKI.py                                                                     100% 1742   221.4KB/s   00:00
+
+kellykiki@Kelly MINGW64 ~/Desktop
+$ ssh -i foundations_key root@206.189.232.164
+Welcome to Ubuntu 16.04.4 LTS (GNU/Linux 4.4.0-127-generic x86_64)
+
+* Documentation:  https://help.ubuntu.com
+* Management:     https://landscape.canonical.com
+* Support:        https://ubuntu.com/advantage
+
+ Get cloud support with Ubuntu Advantage Cloud Guest:
+   http://www.ubuntu.com/business/services/cloud
+
+0 packages can be updated.
+0 updates are security updates.
+
+root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
+crontab: installing new crontab
+
+^Cserver root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
+No modification made
+
+
+
+
+# HOMEWORK-9-Using Scraping
+
+kellykiki@Kelly MINGW64 ~
+$ cd Desktop
+
+kellykiki@Kelly MINGW64 ~/Desktop
+$ scp -i foundations_key Homework-9-Using-Scraping-KIKI.py root@206.189.232.164:~/
+Homework-9-Using-Scraping-KIKI.py             100% 2996    78.5KB/s   00:00
+
+kellykiki@Kelly MINGW64 ~/Desktop
+$ ssh -i foundations_key root@206.189.232.164
+Welcome to Ubuntu 16.04.4 LTS (GNU/Linux 4.4.0-127-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  Get cloud support with Ubuntu Advantage Cloud Guest:
+    http://www.ubuntu.com/business/services/cloud
+
+1 package can be updated.
+1 update is a security update.
+
+
+*** System restart required ***
+You have mail.
+Last login: Tue Jun 19 17:37:31 2018 from 129.236.235.170
+server root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e^C
+server root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
+Use "fg" to return to nano.
+
+[1]+  Stopped                 crontab -e
+server root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
+Use "fg" to return to nano.
+
+[2]+  Stopped                 crontab -e
+server root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
+crontab: installing new crontab
+
+^Cserver root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
+No modification made
