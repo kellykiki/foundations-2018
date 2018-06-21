@@ -177,7 +177,7 @@ file
 # In[50]:
 
 
-homepage_df.to_csv("briefing.csv", date_format = date_string, index=False)
+homepage_df.to_csv(file+".csv", date_format = date_string, index=False)
 
 
 # In[52]:
