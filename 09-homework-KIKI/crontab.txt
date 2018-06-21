@@ -19,10 +19,18 @@ Welcome to Ubuntu 16.04.4 LTS (GNU/Linux 4.4.0-127-generic x86_64)
 0 updates are security updates.
 
 root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
+
+0 8 * * * python3 Homework_9_Dark_Sky_KIKI.py
+
+CntlX
+
+y
+
+enter
+
 crontab: installing new crontab
 
-^Cserver root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
-No modification made
+
 
 
 
@@ -50,21 +58,18 @@ Welcome to Ubuntu 16.04.4 LTS (GNU/Linux 4.4.0-127-generic x86_64)
 1 package can be updated.
 1 update is a security update.
 
+root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
 
-*** System restart required ***
-You have mail.
-Last login: Tue Jun 19 17:37:31 2018 from 129.236.235.170
-server root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e^C
-server root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
-Use "fg" to return to nano.
+0 8 * * * python3 Homework-9-Using-Scraping-KIKI.py
+0 14 * * * python3 Homework-9-Using-Scraping-KIKI.py
+0 20 * * * python3 Homework-9-Using-Scraping-KIKI.py
+0 2 * * * python3 Homework-9-Using-Scraping-KIKI.py
 
-[1]+  Stopped                 crontab -e
-server root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
-Use "fg" to return to nano.
+CntlX
 
-[2]+  Stopped                 crontab -e
-server root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
+y
+
+enter
+
 crontab: installing new crontab
 
-^Cserver root@ubuntu-s-1vcpu-1gb-nyc1-01:~$ crontab -e
-No modification made
