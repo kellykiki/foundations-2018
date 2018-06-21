@@ -30,8 +30,7 @@ enter
 
 crontab: installing new crontab
 
-
-
+date
 
 
 
